@@ -1,1 +1,1 @@
-# ar
+This project demonstrates how to hide a secret message within an image using steganography. The message is embedded by altering the least significant bits (LSB) of the image pixels, making the change imperceptible. A passcode is used to encrypt and decrypt the message, ensuring that only authorized users can retrieve it. The script utilizes Python and the OpenCV library to process the image, allowing the user to hide and later extract a secret message by entering the correct passcode.
